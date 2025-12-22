@@ -194,10 +194,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is open source and available under the MIT License.
 
-## 👤 Author
-
-Haaziq - [GitHub](https://github.com/Haaziq386)
-
 ## 🙏 Acknowledgments
 
 This implementation is based on research in keystroke dynamics authentication, particularly the use of digraph timing features and modified distance metrics for improved accuracy.
