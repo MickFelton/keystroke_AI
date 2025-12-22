@@ -1,7 +1,6 @@
 # Keystroke Dynamics Authentication System
 
-**Course Project:** CSN-371 Artificial Intelligence  
-**Author:** Mohammed Haaziq Jamal  
+**Course Project:** CSN-371 Artificial Intelligence   
 **Instructor:** Prof. Pradumn K. Pandey  
 
 A biometric authentication system that identifies users based on their unique typing patterns using keystroke dynamics. This implementation uses digraph timing features and evaluates performance using the Equal Error Rate (EER) metric, based on research by Iapa & Cretu (2021).
